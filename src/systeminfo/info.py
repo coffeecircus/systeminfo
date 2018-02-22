@@ -7,7 +7,8 @@ Created on 2018年2月20日
 from systeminfo import main
 
 def get_platform_info():
-    return (main.main())
+    print(main.main())
+    return
 
 if __name__=="__main__":
     get_platform_info()
