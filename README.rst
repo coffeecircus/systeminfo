@@ -3,8 +3,7 @@ systeminfo
 ==========
 
 
-Add a short description here!
-
+systeminfo module for assignment2
 
 Description
 ===========
